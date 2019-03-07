@@ -29,9 +29,9 @@ h1 {letter-spacing: 6px}
    </div>
   </div>
 </header>
-<center><a href="https://www.w3schools.com">Visit W3Schools.com!</a> </center>
+<center><a href="https://github.com/AMS118413192?tab=projects">Visit GitHub</a> </center>
 
-
+<center><a href="https://dashboard.heroku.com/apps/ams118413192php">Visit Heroku</a> </center
 
 
   
