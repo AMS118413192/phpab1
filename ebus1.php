@@ -21,6 +21,12 @@ $_SESSION['txtTotal'] = $totalValue;
                     <td><b>Please select product</b></td>
                 </tr>
                 <tr>
+                    
+                    
+                    
+                    
+                    
+                    
                     <td>Blockchain</td>
                     <td><input type="radio" id="CocaCola" name="rdoGroup" value="1" /></td>
                 </tr>
